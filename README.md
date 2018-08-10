@@ -4,6 +4,8 @@ AI - Autoencoders
 
 # Autoencoder
 
+[Autoencoders](autoencoder-1.png)
+
 This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the necessary dependencies on a local machine or on AWS.
 
 In this project, we train a **Convolutional Autoencoder** and a **Simple Autoencoder** to compress data and denoise images.
