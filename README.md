@@ -33,7 +33,7 @@ Or:
 
 	- __Linux__ (to install with __GPU support__, change `requirements/pmaienv-linux.yml` to `requirements/pmaienv-linux-gpu.yml`): 
 	```
-	  $ conda env create -f requirements/pmaienv-linux.yml
+    $ conda env create -f requirements/pmaienv-linux.yml
     $ source activate pmaienv-project
 	```  
 	- __Mac__ (to install with __GPU support__, change `requirements/pmaienv-mac.yml` to `requirements/pmaienv-mac-gpu.yml`): 
